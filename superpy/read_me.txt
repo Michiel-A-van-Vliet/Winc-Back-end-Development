@@ -80,7 +80,7 @@ Note: this changes the 'current day'
 main.py report revenue
 
 - Report profit of January 2020:
-main.py report profit --start 2020-01-01 --en 2020-01-31
+main.py report profit --start 2020-01-01 --end 2020-01-31
 
 - Report expired products on specific date:
 main.py --date 2020-02-20 report expired
